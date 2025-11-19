@@ -1,6 +1,6 @@
 # customer_behavior_analysis
 
-Overview
+Overview:
 This project analyzes customer shopping behavior using Python, SQL, and Power BI.
 The goal is to understand patterns in customer purchases, identify top-performing categories/products, and create meaningful insights through visual dashboards.
 
