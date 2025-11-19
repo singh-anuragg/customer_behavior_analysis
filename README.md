@@ -1,46 +1,48 @@
 # customer_behavior_analysis
 
-📊 Customer Shopping Behavior – Data Analytics Project
-
-📌 Overview
+# 📌 Overview
 
 This project analyzes customer shopping behavior using Python, SQL, and Power BI.The goal is to understand patterns in customer purchases, identify top-performing categories/products, and create meaningful insights through visual dashboards.
 
 The project covers:
 
 • Loading and exploring the dataset in Python
+
 • Data cleaning and preprocessing
+
 • Running SQL queries on MySQL
+
 • Building an interactive Power BI dashboard
+
 • Creating a final business insights report
 
 
-📁 Dataset
+# 📁 Dataset
 
-Name: Customer Shopping Behavior
+• Name: Customer Shopping Behavior
 
-Format: CSV
+• Format: CSV
 
-Rows: ~4,000
+• Rows: ~4,000
 
-Columns: Category, Item Purchased, Gender, Age, Price, Purchase Date, etc.
+• Columns: Category, Item Purchased, Gender, Age, Price, Purchase Date, etc.
 
-Source: Public dataset
+• Source: Public dataset
 
 The dataset includes customer demographics, product categories, and purchase information, allowing both exploratory and business-focused analysis.
 
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
-Python (Pandas, NumPy) – EDA & cleaning
+• Python (Pandas, NumPy) – EDA & cleaning
 
-MySQL + SQLAlchemy – Querying & database operations
+• MySQL + SQLAlchemy – Querying & database operations
 
-Power BI – Dashboard creation
+• Power BI – Dashboard creation
 
-Jupyter Notebook / VS Code – Development environment
+• Jupyter Notebook / VS Code – Development environment
 
-🧪 Project Steps
+# 🧪 Project Steps
 1. Data Loading
 
 Imported the CSV dataset using Pandas
@@ -109,7 +111,7 @@ Top categories/products
 
 Actionable recommendations for decision-making
 
-📊 Dashboard Preview
+# 📊 Dashboard Preview
 
 The Power BI dashboard includes:
 
@@ -121,7 +123,7 @@ Trend charts and product performance views
 
 (Include screenshots in your repo if available.)
 
-📝 Results & Insights
+# 📝 Results & Insights
 
 Identified top revenue-generating categories
 
@@ -133,10 +135,10 @@ Observed seasonal/monthly purchase patterns
 
 Delivered actionable insights for marketing and product teams
 
-▶️ How to Run This Project
+# ▶️ How to Run This Project
 Requirements
 
-Install necessary Python packages:
+• Install necessary Python packages:
 
 pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
 
