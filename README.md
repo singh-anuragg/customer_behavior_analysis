@@ -49,67 +49,67 @@ The dataset includes customer demographics, product categories, and purchase inf
 
 • Displayed initial rows, checked column types, and validated dataset structure
 
-2. Exploratory Data Analysis (EDA)
+**2. Exploratory Data Analysis (EDA)**
 
-Performed descriptive statistics
+• Performed descriptive statistics
 
-Analyzed customer demographics
+• Analyzed customer demographics
 
-Identified most purchased categories & products
+• Identified most purchased categories & products
 
-Visualized trends (age groups, price distribution, gender split, etc.)
+• Visualized trends (age groups, price distribution, gender split, etc.)
 
-3. Data Cleaning
+**3. Data Cleaning**
 
-Removed duplicates
+• Removed duplicates
 
-Handled missing values
+• Handled missing values
 
-Converted datatypes (dates, numeric columns)
+• Converted datatypes (dates, numeric columns)
 
-Added engineered features like age groups, purchase month, etc.
+• Added engineered features like age groups, purchase month, etc.
 
-4. SQL Analysis (MySQL)
+**4. SQL Analysis (MySQL)**
 
-Loaded cleaned data into MySQL using SQLAlchemy
+• Loaded cleaned data into MySQL using SQLAlchemy
 
-Executed SQL queries such as:
+• Executed SQL queries such as:
 
-Total orders by category
+• Total orders by category
 
-Top products per category
+• Top products per category
 
-Revenue by month
+• Revenue by month
 
-Gender-wise purchase behavior
+• Gender-wise purchase behavior
 
-Verified results and compared with Python outputs
+• Verified results and compared with Python outputs
 
-5. Power BI Dashboard
+**5. Power BI Dashboard**
 
-Created an interactive dashboard featuring:
+• Created an interactive dashboard featuring:
 
-Category-wise total sales
+• Category-wise total sales
 
-Top products
+• Top products
 
-Gender and age group insights
+• Gender and age group insights
 
-Monthly purchase trends
+• Monthly purchase trends
 
-KPIs (Total Customers, Total Revenue, Total Orders)
+• KPIs (Total Customers, Total Revenue, Total Orders)
 
-6. Report Creation
+**6. Report Creation**
 
-A business insights report summarizing:
+•A business insights report summarizing:
 
-Key findings
+• Key findings
 
-Customer behavior trends
+• Customer behavior trends
 
-Top categories/products
+• Top categories/products
 
-Actionable recommendations for decision-making
+• Actionable recommendations for decision-making
 
 # 📊 Dashboard Preview
 
@@ -125,35 +125,35 @@ Trend charts and product performance views
 
 # 📝 Results & Insights
 
-Identified top revenue-generating categories
+• Identified top revenue-generating categories
 
-Found top 3 most purchased items per category
+• Found top 3 most purchased items per category
 
-Analyzed demographic trends (age, gender preferences)
+• Analyzed demographic trends (age, gender preferences)
 
-Observed seasonal/monthly purchase patterns
+• Observed seasonal/monthly purchase patterns
 
-Delivered actionable insights for marketing and product teams
+• Delivered actionable insights for marketing and product teams
 
 # ▶️ How to Run This Project
 Requirements
 
 • Install necessary Python packages:
 
-pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
+pip install pandas numpy sqlalchemy pymysql
 
-Steps
+**Steps:**
 
-Clone the repository
+• Clone the repository
 
-Open the Jupyter Notebook / Python script
+• Open the Jupyter Notebook / Python script
 
-Load the dataset
+• Load the dataset
 
-Run the EDA and cleaning cells
+• Run the EDA and cleaning cells
 
-Set up MySQL, create a database, and update connection details
+• Set up MySQL, create a database, and update connection details
 
-Run SQL queries
+• Run SQL queries
 
-Open the Power BI file (.pbix) to explore the dashboard
+• Open the Power BI file (.pbix) to explore the dashboard
