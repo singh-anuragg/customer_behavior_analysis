@@ -45,9 +45,9 @@ The dataset includes customer demographics, product categories, and purchase inf
 # 🧪 Project Steps
 **1. Data Loading**
 
-Imported the CSV dataset using Pandas
+• Imported the CSV dataset using Pandas
 
-Displayed initial rows, checked column types, and validated dataset structure
+• Displayed initial rows, checked column types, and validated dataset structure
 
 2. Exploratory Data Analysis (EDA)
 
