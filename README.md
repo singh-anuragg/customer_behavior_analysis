@@ -142,6 +142,7 @@ Trend charts and product performance views
 
 ```bash
 pip install pandas numpy sqlalchemy pymysql
+```
 
 **Steps:**
 
