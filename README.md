@@ -43,7 +43,7 @@ The dataset includes customer demographics, product categories, and purchase inf
 • Jupyter Notebook / VS Code – Development environment
 
 # 🧪 Project Steps
-1. Data Loading
+**1. Data Loading**
 
 Imported the CSV dataset using Pandas
 
