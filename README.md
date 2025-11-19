@@ -136,7 +136,7 @@ Trend charts and product performance views
 • Delivered actionable insights for marketing and product teams
 
 # ▶️ How to Run This Project
-Requirements
+**Requirements**
 
 • Install necessary Python packages:
 
