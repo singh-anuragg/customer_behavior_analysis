@@ -140,6 +140,7 @@ Trend charts and product performance views
 
 • Install necessary Python packages:
 
+```bash
 pip install pandas numpy sqlalchemy pymysql
 
 **Steps:**
