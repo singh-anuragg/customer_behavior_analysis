@@ -8,15 +8,15 @@ This project analyzes customer shopping behavior using Python, SQL, and Power BI
 
 The project covers:
 
-Loading and exploring the dataset in Python
+•Loading and exploring the dataset in Python
 
-Data cleaning and preprocessing
+•Data cleaning and preprocessing
 
-Running SQL queries on MySQL
+•Running SQL queries on MySQL
 
-Building an interactive Power BI dashboard
+•Building an interactive Power BI dashboard
 
-Creating a final business insights report
+•Creating a final business insights report
 
 
 📁 Dataset
