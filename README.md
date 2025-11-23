@@ -1,6 +1,6 @@
 # customer_behavior_analysis
 
-# 📌 Overview
+#  Overview
 
 This project analyzes customer shopping behavior using Python, SQL, and Power BI.The goal is to understand patterns in customer purchases, identify top-performing categories/products, and create meaningful insights through visual dashboards.
 
@@ -17,7 +17,7 @@ The project covers:
 • Creating a final business insights report
 
 
-# 📁 Dataset
+#  Dataset
 
 • Name: Customer Shopping Behavior
 
@@ -32,7 +32,7 @@ The project covers:
 The dataset includes customer demographics, product categories, and purchase information, allowing both exploratory and business-focused analysis.
 
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 • Python (Pandas, NumPy) – EDA & cleaning
 
@@ -42,7 +42,7 @@ The dataset includes customer demographics, product categories, and purchase inf
 
 • Jupyter Notebook / VS Code – Development environment
 
-# 🧪 Project Steps
+#  Project Steps
 **1. Data Loading**
 
 • Imported the CSV dataset using Pandas
@@ -111,7 +111,7 @@ The dataset includes customer demographics, product categories, and purchase inf
 
 • Actionable recommendations for decision-making
 
-# 📊 Dashboard Preview
+#  Dashboard Preview
 
 The Power BI dashboard includes:
 
@@ -123,7 +123,7 @@ Trend charts and product performance views
 
 (Include screenshots in your repo if available.)
 
-# 📝 Results & Insights
+#  Results & Insights
 
 • Identified top revenue-generating categories
 
@@ -135,7 +135,7 @@ Trend charts and product performance views
 
 • Delivered actionable insights for marketing and product teams
 
-# ▶️ How to Run This Project
+#  How to Run This Project
 **Requirements**
 
 • Install necessary Python packages:
